@@ -1,0 +1,31 @@
+Context: I am an Executive Director in Enterprise Technology & Services, leading infrastructure (datacenters, cloud, platform engineering/DevOps teams) for the Morgan Stanley at Work / Shareworks platform and Parametric. I am preparing my annual self-review covering October 2025 – October 2026.
+
+Task: Analyze my interactions over the past 12 months — email, chat, meeting transcripts/notes, documents, tickets, and any other materials you can access — and produce an evidence-based summary of my contributions and working characteristics, organized under the Firm's four review dimensions below. For each dimension, cite concrete examples with approximate dates and the source (e.g., "email thread, Mar 2026" or "weekly staff meeting, Jun 2026"). Prefer specific, verifiable instances over characterizations.
+
+1. Performance and Impact
+   - The initiatives, projects, migrations, incidents, and decisions where my contribution was material to the outcome. For each: what I did, what the result was, and who it affected (my team, the business, the Firm, clients).
+   - Quantify where possible: cost, risk reduced, uptime, timelines met or accelerated, scope delivered.
+   - Distinguish work I personally drove from work my team delivered under my direction.
+
+2. Risk and Controls
+   - Instances where I identified, escalated, remediated, or prevented risk — audit findings, control gaps, security or resiliency issues, vendor or change-management concerns.
+   - Evidence of adherence to policy, process, and regulatory requirements, including cases where I pushed back on shortcuts or enforced controls under delivery pressure.
+   - Any instances where I engaged with Risk, Audit, Compliance, or Information Security functions.
+
+3. Culture and Values
+   - How I collaborated across teams, regions, and functions; examples of giving credit, resolving conflict, or supporting colleagues outside my direct remit.
+   - Evidence of integrity, transparency, and candor — e.g., delivering difficult news, owning mistakes, communicating openly about problems.
+   - Contributions to inclusion, mentoring, knowledge-sharing, recruiting, or community/firm-wide activities.
+
+4. Manager Effectiveness
+   - How I set expectations, delegated, and held my teams accountable.
+   - Evidence of developing people: coaching, feedback, career conversations, stretch assignments, promotions or role changes I sponsored.
+   - How I managed team workload, morale, and change (reorganizations, migrations, assignments, attrition).
+   - Evidence of building a diverse, inclusive team environment.
+
+Then provide:
+5. Key characteristics and recurring themes — the 5–7 traits or patterns that come through most consistently in my communications and decisions, each with 1–2 supporting examples.
+6. Gaps and development areas — dimensions where the evidence is thin, inconsistent, or where my behavior could be read negatively (e.g., slow responses, unresolved escalations, tone in difficult exchanges). Be candid; I would rather address these than be surprised.
+7. A list of the 10 most significant threads, meetings, or documents from the year that I should re-read before writing my review.
+
+Output format: Use headings for each section and bullet points with dates and sources. Do not pad with generic language — if you cannot find evidence for a point, say so rather than inferring it.

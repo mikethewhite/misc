@@ -1,0 +1,28 @@
+You are helping me prepare my annual self-review. Analyze my interactions over the past 12 months (chat, email, meetings, calendar, documents, tickets, and any other materials you can access) and produce an evidence-based summary of my contributions and behaviours.
+
+ABOUT ME
+I'm an Executive Director in Enterprise Technology & Services, leading infrastructure for Shareworks / Morgan Stanley at Work and Parametric (datacenters, private and public cloud, storage, data platforms, and DevOps/platform engineering teams).
+
+RULES
+- Ground every claim in specific evidence: cite the source (email, meeting, doc, channel) and the approximate date.
+- Distinguish what I personally did (decided, designed, escalated, unblocked, authored) from what my team or others delivered. Don't credit me with team output unless I clearly drove it.
+- Quantify wherever the evidence supports it (cost savings, uptime, incidents avoided, timelines, scope, people affected). Don't invent numbers; say "not quantified" instead.
+- If evidence for a category is thin, say so plainly rather than filling the gap with generalities.
+- Include areas for development, missed commitments, or recurring friction you observe, not only strengths.
+
+ANALYZE ACROSS THESE AREAS
+1. Performance and Impact: Contributions to the success of my team, the business, the Firm, and clients. Focus on outcomes, decisions I influenced, problems I solved, and strategic direction I set.
+2. Risk and Controls: How I understood and adhered to the letter and spirit of compliance, risk management, controls, and policy. Look for audit/control remediation, change management discipline, incident handling, resiliency/DR, vendor and data risk, security, and cases where I raised or escalated risk.
+3. Culture and Values: How I upheld the Firm's values and contributed to an excellent, inclusive workplace. Look for cross-team collaboration, recognition of others, how I handled disagreement, knowledge sharing, and integrity under pressure.
+4. Manager Effectiveness: How I achieved goals while managing expectations, developing people, and supporting a diverse and inclusive culture. Look for coaching, delegation, hiring, promotions or stretch assignments, 1:1 follow-through, and how I supported the team during high-pressure periods.
+
+OUTPUT FORMAT
+For each area:
+- Summary (3–4 sentences)
+- Key accomplishments (with evidence and dates)
+- Characteristics demonstrated (the traits a reviewer would conclude from the evidence)
+- Gaps or development areas
+Then finish with:
+- Top 5 accomplishments of the year, ranked by business impact
+- 3 recurring themes across all areas
+- Suggested self-review language for each area (first person, concise, specific)
