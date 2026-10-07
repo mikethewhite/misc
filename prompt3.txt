@@ -1,0 +1,104 @@
+Prepare a source-linked summary of my documented work interactions with
+[Full Name], employee ID [ID], during [start date] through [end date].
+
+Search the chat messages, emails, meeting notes or transcripts, and work
+documents available within my authorized access. Include relevant referenced
+materials where they explicitly document this person’s involvement. Use the
+employee ID to disambiguate identity, not as an additional research target.
+
+Your task is to retrieve, extract, and organize existing information so I can
+interpret the underlying records myself. Focus on what was documented:
+actions, deliverables, decisions, outcomes, statements, and follow-ups.
+Do not infer personal traits, motivations, competence, or suitability.
+Do not assign ratings, rank the individual, or recommend actions about them.
+
+Organize the information under these four themes:
+
+1. Delivery and business outcomes
+Identify projects, deliverables, operational responsibilities, problems
+addressed, decisions made, and assistance provided. Describe the individual’s
+documented contribution and any recorded effects on the team, business,
+Firm, or clients.
+
+Include measurable results where available. Distinguish achieved outcomes
+from intended benefits, estimates, and self-reported claims. Where a result
+belongs to a team, do not attribute it to the individual unless the source
+establishes their specific contribution.
+
+2. Risk, controls, and process-related activities
+Identify documented involvement in control execution, approvals, adherence
+to procedures, risk discussions, escalation, incident handling, remediation,
+audit work, and policy or standards-related decisions.
+
+Capture recorded explanations of risk or control decisions, concerns raised,
+actions taken, and resolution status. Describe the record without independently
+concluding that the person complied with or violated a policy, regulation,
+or law. Preserve the distinction between an allegation, an acknowledged issue,
+and an established finding.
+
+3. Collaboration, knowledge sharing, and participation
+Identify concrete examples of cross-team coordination, knowledge sharing,
+assistance to colleagues, stakeholder communication, seeking differing
+perspectives, acknowledging others’ contributions, and enabling participation.
+
+Include explicit references to the Firm’s stated values where present in
+the source material. Describe the actions and context rather than converting
+them into personality labels or judgments about “culture fit.” Do not infer
+anyone’s demographic characteristics or personal circumstances.
+
+4. Team direction and employee support, where applicable
+Where the individual’s people-management responsibilities are established,
+identify documented goal-setting, delegation, expectation-setting, coaching,
+development discussions, workload planning, follow-through, and steps to
+support participation and access to opportunities.
+
+Describe specific activities and recorded outcomes. Do not infer management
+effectiveness from communication style, popularity, or frequency of contact.
+If this theme is not applicable or supported by the records, say so.
+
+Create a separate section for feedback already present in the records.
+Retrieve explicit recognition, concerns, requests for changes, suggestions
+for improvement, or development advice that was actually communicated.
+For each item, identify:
+- Who provided it, when, and in what context.
+- What was said, using a short quotation or faithful paraphrase.
+- Any specific action requested or agreed.
+- Any documented response, follow-up, or resolution.
+- The supporting source.
+
+Treat feedback as an attributed statement, not as your own conclusion.
+Do not invent additional strengths, weaknesses, or development suggestions.
+
+Evidence requirements:
+Support each substantive entry with a source reference, date, and direct
+link or available identifier. Distinguish documented actions and outcomes
+from attributed opinions and unresolved claims.
+
+Include relevant positive, critical, and mixed evidence without forcing a
+particular balance. Deduplicate repeated references to the same event.
+Represent the full time period rather than concentrating only on recent
+or frequently discussed work.
+
+Do not treat message volume, response speed, tone, after-hours activity,
+meeting attendance, or missing records as evidence of contribution quality.
+Do not infer meeting content from a calendar entry alone.
+
+Exclude unrelated personal information and sensitive personal details.
+Where records conflict or attribution is uncertain, state the limitation.
+Where a theme has little evidence, say “Limited evidence in the sources
+reviewed,” rather than drawing a negative conclusion.
+
+Output:
+A. A brief scope note describing the period and sources actually reviewed,
+   including important access or coverage limitations.
+B. An evidence table grouped by the four themes, with columns for:
+   date/period; project or topic; documented action or contribution;
+   recorded outcome or relevance; source; and uncertainty or missing context.
+C. The separate table of explicitly recorded feedback and follow-ups.
+D. Recurring documented activities or topics, supported by multiple examples,
+   without turning those patterns into judgments about the person.
+E. Outstanding factual questions or missing records for me to verify.
+
+Prioritize substantive examples over routine correspondence. Do not force
+content into every theme. If a requested statement would require an unsupported
+judgment, omit that judgment and provide the relevant source evidence instead.

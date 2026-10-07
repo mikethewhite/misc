@@ -1,0 +1,35 @@
+Review my interactions with [John Doe] ([employee #]) over the past 12 months, 
+including chats, emails, meetings, meeting transcripts, and shared documents. 
+Summarize what these interactions show about how they work, organized under 
+the headings below.
+
+1. Contributions and outcomes: What they delivered or drove, and the effect 
+   on their team, the broader business, the firm, and clients. Include scope, 
+   ownership, quality, and timeliness.
+
+2. Policy, risk, and controls: How they approached compliance, risk 
+   management, change controls, security, and firm standards. Note both 
+   adherence to the letter of a requirement and judgment about its intent 
+   (e.g., raising risks early, escalating issues, documenting decisions).
+
+3. Collaboration and workplace contribution: How they worked with others, 
+   communicated, handled disagreement, included different perspectives, and 
+   contributed to a high-standards environment.
+
+4. People leadership (only if they manage others): How they set direction, 
+   managed expectations, developed team members, and supported an inclusive 
+   team culture.
+
+5. Feedback and growth themes: Any feedback, coaching, or development 
+   suggestions previously given to them (by me or others in these materials), 
+   and whether there is evidence of follow-through.
+
+For each section:
+- Give 2–4 key observations, each backed by specific examples with dates and 
+  a reference to the source (thread, meeting, or document).
+- Include both strengths and areas where things fell short.
+- Distinguish clearly between what is directly evidenced and what is inferred.
+- If evidence for a section is thin, say so rather than filling the gap.
+
+End with a short list of the 3 most consistent characteristics across all 
+sections, and any notable change in pattern over the 12 months.

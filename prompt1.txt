@@ -1,0 +1,19 @@
+Analyze all of my interactions with [Name] ([Employee #]) over the past 12 months — chat, email, meeting notes/transcripts, documents, tickets, and any other shared materials — and produce a structured summary of our working relationship and their contributions during that period.
+
+Ground every observation in specific evidence: cite the interaction (date, channel, subject) and quote or closely paraphrase what was said or done. Distinguish clearly between what is directly observed in the materials and what is inferred. Where the record is thin or ambiguous, say so rather than filling the gap.
+
+Organize the summary as follows:
+
+1. **Contributions and outcomes.** What they delivered, drove, or materially influenced. Note the scope of impact — their team, the broader business, the Firm, and clients/end users — and distinguish individual contributions from team outcomes they participated in. Include how they handled ambiguity, setbacks, and priorities that shifted.
+
+2. **Judgment on risk, controls, and standards.** How they approached policies, procedures, change management, approvals, audit/compliance requirements, security, and regulatory expectations. Note instances where they identified or escalated risk, pushed for proper controls, or raised concerns — and any instances where process was skipped, shortcuts were suggested, or a control issue needed follow-up. Capture both the letter and the spirit: did they engage with *why* a control exists, or only with the mechanics?
+
+3. **Conduct and collaboration.** How they worked with others: communication style, reliability, candor, how they handled disagreement, credit, and mistakes. Note contributions to team norms, inclusion of differing perspectives, support for colleagues, and anything that strengthened or detracted from a high-standards, respectful working environment.
+
+4. **Leading and developing others** (only if they manage people or lead workstreams). How they set expectations, delegated, gave feedback, developed people, handled underperformance or conflict, and whether their team's goals were achieved. Note evidence of fostering an inclusive environment and supporting growth across the team.
+
+5. **Developmental themes.** Any feedback, coaching, or growth areas raised by me or others in the materials — explicit or implicit. For each, note whether there's evidence of progress, no change, or regression over the 12 months. Also surface recurring patterns that weren't explicitly named but appear across multiple interactions.
+
+6. **Key characteristics.** Close with the 3–5 defining traits that come through most consistently, each anchored to the evidence above.
+
+Keep the tone neutral and descriptive. Avoid superlatives and avoid summary judgments; the goal is an evidence-based picture I can draw my own conclusions from. Flag any areas where I'd benefit from checking with others because my direct interactions don't give enough visibility.
